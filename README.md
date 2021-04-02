@@ -1,0 +1,2 @@
+# download
+Uygulamaların güncelleme linkleri
